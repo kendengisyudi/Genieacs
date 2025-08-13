@@ -42,11 +42,13 @@ Baca terlebih dahulu !!!
 Config sebelumnya akan terhapus dan tergantikan oleh config baru
 
 Yang akan diupdate, yaitu:
+login:
+username : admin
+password : admin
 
-   • Admin >> Preset <br>
-   • Admin >> Provosions <br>
-   • Admin >> Virtual Parameter<br>
-   • Admin >> Config<br>
+### Login Superadmin
+username : admin
+password : 
    
 #===Script/config tersebut akan terganti dengan yang baru ====#
 
