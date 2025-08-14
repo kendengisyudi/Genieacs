@@ -1,23 +1,6 @@
 # INSTALL GENIEACS OTOMATIS
-This is autoinstall GenieACS 
 
-## Persiapan INSTALL
-
-### 1. Update System
-**jika sudah update, langsung ke step 2**
-```
-sudo apt update && sudo apt upgrade -y
-sudo reboot
-```
-
-### 2. Install Mongodb terbaru pakai ChatGPT
-**jika sudah install mongodb, langsung ke step 3**
-```
-saya ingin menginstall mongodb terbaru di ubuntu 22
-```
-sesuaikan versi ubuntu
-
-### 3. Memulai Install Genieacs
+### Memulai Install Genieacs
 **pastikan sudah berada di root**
 ```
 apt install git curl -y
